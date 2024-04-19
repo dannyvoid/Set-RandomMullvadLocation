@@ -39,11 +39,11 @@ Set-RandomMullvadLocation -Country US
 
 ```python
 # List available locations
-python Set-RandomMullvadLocation.py --list
+python RandomMullvadLocation.py --list
 
 # Set random location
-python Set-RandomMullvadLocation.py
+python RandomMullvadLocation.py
 
 # Set specific location
-python Set-RandomMullvadLocation.py --country US
+python RandomMullvadLocation.py --country US
 ```

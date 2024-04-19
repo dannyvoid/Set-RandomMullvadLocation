@@ -35,6 +35,8 @@ Set-RandomMullvadLocation
 Set-RandomMullvadLocation -Country US
 ```
 
+### PowerShell
+
 ```python
 # List available locations
 python Set-RandomMullvadLocation.py --list

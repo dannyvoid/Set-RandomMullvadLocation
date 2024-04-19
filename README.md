@@ -47,3 +47,7 @@ python RandomMullvadLocation.py
 # Set specific location
 python RandomMullvadLocation.py --country US
 ```
+
+## To-Do
+- Bring the Powershell version up to parity with the Python copy
+  - Allow shorthand or longhand input for Country input with Powershell

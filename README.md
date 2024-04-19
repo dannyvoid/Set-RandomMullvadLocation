@@ -50,4 +50,4 @@ python RandomMullvadLocation.py --country US
 
 ## To-Do
 - Bring the Powershell version up to parity with the Python copy
-  - Allow shorthand or longhand input for Country input with Powershell
+  - Allow shorthand or longhand for Country input with Powershell

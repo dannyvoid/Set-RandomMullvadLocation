@@ -49,7 +49,7 @@ python RandomMullvadLocation.py --country US
 ```
 
 ## To-Do
-- Bring the Powershell version up to parity with the Python copy
-  - Allow shorthand or longhand for Country input with Powershell
+- ~~Bring the Powershell version up to parity with the Python copy~~
+  - ~~Allow shorthand or longhand for Country input with Powershell~~
 - Allow you to randomize servers within the same Country consecutively.
   - i.e. if passing the same country twice in a row, it doesn't pick a new server within the country.
